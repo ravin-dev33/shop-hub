@@ -2,7 +2,7 @@
   "name": "shop-hub-store",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ravinanghan33.github.io/shop-hub/",
+  "homepage": "https://ravin-dev33.github.io/shop-hub/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",

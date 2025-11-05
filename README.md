@@ -1,7 +1,7 @@
 # 🛍️ ShopHub E-Commerce Store
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Deployed-brightgreen)](https://ravinanghan33.github.io/shop-hub/)
-[![Build Status](https://img.shields.io/badge/Build-Passing-success)](https://github.com/ravinanghan33/shop-hub/actions)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Deployed-brightgreen)](https://ravin-dev33.github.io/shop-hub/)
+[![Build Status](https://img.shields.io/badge/Build-Passing-success)](https://github.com/ravin-dev33/shop-hub/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A modern, production-ready e-commerce application built with React, TypeScript, Material-UI, and TanStack Query. This project demonstrates professional development practices, efficient caching strategies, and clean code architecture with comprehensive refactoring for maintainability and performance.
@@ -126,7 +126,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ravinanghan33/shop-hub.git
+   git clone https://github.com/ravin-dev33/shop-hub.git
    cd shop-hub
    ```
 
@@ -351,7 +351,7 @@ We welcome contributions! Please follow these steps:
 ### Development Workflow
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/ravinanghan33/shop-hub.git
+   git clone https://github.com/ravin-dev33/shop-hub.git
    ```
 
 2. **Create a feature branch**
@@ -409,6 +409,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Built with ❤️ using React, TypeScript, and modern web technologies**
 
-[⭐ Star this repo](https://github.com/ravinanghan33/shop-hub) • [🐛 Report Issues](https://github.com/ravinanghan33/shop-hub/issues) • [💡 Request Features](https://github.com/ravinanghan33/shop-hub/discussions)
+[⭐ Star this repo](https://github.com/ravin-dev33/shop-hub) • [🐛 Report Issues](https://github.com/ravin-dev33/shop-hub/issues) • [💡 Request Features](https://github.com/ravin-dev33/shop-hub/discussions)
 
 </div>
